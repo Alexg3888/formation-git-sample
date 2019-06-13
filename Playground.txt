@@ -2,15 +2,15 @@ formation git
 Bonjour
 Bye
 Hello
-beauté 2
+beautï¿½ 2
 Hello my friend
-Beauté
+Beautï¿½
 Hello 2
 Hello 3
 Hello 4
-Beauté 3
-Beauté 4
-Bonjour 2
-Bonjour 3
+Beautï¿½ 3
+Beautï¿½ 4
 BJ
+Bonjour 3
+Bonjour 2
 
