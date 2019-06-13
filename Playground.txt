@@ -2,3 +2,4 @@ formation git
 Bonjour
 Bye
 Hello
+Hello my friend
