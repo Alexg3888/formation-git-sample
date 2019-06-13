@@ -2,3 +2,4 @@ formation git
 Bonjour
 Bye
 Hello
+beauté 2
