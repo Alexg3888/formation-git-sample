@@ -1,1 +1,2 @@
-Hello my frind
+Hello my friend
+fetch
