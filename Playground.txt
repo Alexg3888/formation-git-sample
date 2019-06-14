@@ -1,4 +1,4 @@
-﻿formation git 
+c'est pas facile﻿formation git 
 Bonjour
 Bye
 Hello
@@ -16,3 +16,4 @@ Bonjour 2
 Bonjour 3
 Kiss
 Kiss 2
+c'est pas facile
